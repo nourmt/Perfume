@@ -1,0 +1,174 @@
+#background {
+  background-color: #F5F5F5;
+  background-image: url("https://image.slidesdocs.com/responsive-images/background/perfume-bottle-simple-nature-simple-and-easy-black-floral-powerpoint-background_b55ec9fef3__960_540.jpg");
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#background2 {
+  background-color: #F5F5F5;
+  background-image: url("https://image.slidesdocs.com/responsive-images/background/perfume-bottle-simple-nature-simple-and-easy-black-floral-powerpoint-background_b55ec9fef3__960_540.jpg");
+  background-position: center center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.perf {
+  min-height: 350px;
+  margin: 20px;
+  list-style: none;
+  border: 1px solid #77777769;
+  background-color:#F5F5F5;
+  border-radius: 4px;
+  padding: 30px 50px 0px 50px;
+  box-shadow: 0 0 1em #80808066;
+  width: 400px;
+}
+.perfume-list {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+#g{
+  text-decoration:none;
+}
+#search {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  width: 300px;
+}
+.perfume-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.perf {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color:#F5F5F5;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+
+
+.perf h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.perf p {
+  margin-bottom: 10px;
+}
+
+.perf button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #93065f;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.perf button:hover {
+  background-color: #b7cba6;
+}
+
+.form-container h2 {
+  margin-bottom: 20px;
+}
+
+.form-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container label {
+  margin-bottom: 10px;
+}
+
+.form-container input[type=text], .form-container select {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.form-container input[type=submit] {
+  background-color: #4CAF50;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form-container input[type=submit]:hover {
+  background-color: #3e8e41;
+}
+#background2 {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+input,
+textarea {
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+textarea {
+  height: 100px;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+
+
